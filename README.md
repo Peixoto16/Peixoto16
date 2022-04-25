@@ -1,6 +1,6 @@
 ### Olá !! Eu sou Israel Peixoto.
 
-👾 Atualmente estou estudante Desenvolvimento Front e Back.
+👾 Atualmente sou estudante de Desenvolvimento Front e Back.
 
 <div align="center">
   <a href="https://github.com/Peixoto16">
